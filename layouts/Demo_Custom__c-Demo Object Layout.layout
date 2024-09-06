@@ -22,7 +22,6 @@
                 <behavior>Edit</behavior>
                 <field>Field_Three__c</field>
             </layoutItems>
-        </layoutColumns>
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
